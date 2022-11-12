@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap%27');
+
+body {
+  background: #222 url("../img/berries.gifv");
+  color: #7788e9;
+  font-family: 'Courier Prime', monospace;
+}
+body.threadpage {
+  background-image: none;
+}
+a,
+a .name,
+#n2 {
+  color: #9d81be;
+}
+a:active,
+a:focus,
+a:active .name,
+a:focus .name,
+#n2:active {
+  color: #5d4d72;
+}
+h4 a, .lastposts {
+  text-decoration: none;
+}
+hr {
+  border: 1px inset #111;
+}
+input[type="text"],
+input[type="submit"],
+input[type="button"],
+textarea,
+button,
+select {
+  background: #181e36;
+  border: 1px solid #081229;
+  color: #e8e8e8;
+}
+input[type="submit"],
+input[type="button"],
+button {
+  background: rgb(35, 30, 49);
+}
+input[type="submit"]:active,
+input[type="button"]:active,
+button:active {
+  background: #0b0924;
+}
+h1 {
+  color: #dc56b4;
+  font-size: 26px;
+  margin-top: -5px;
+  text-align: center;
+}
+h2 a {
+  color: rgb(85, 83, 190);
+}
+h2 span {
+  color: #999;
+}
+h3,
+#size {
+  color: #4255ab;
+}
+h3 span {
+  color: #999;
+}
+h4 {
+  color: #c1c5c2;
+}
+#main_nav {
+  background: #000;
+  border-bottom: 1px solid #222;
+  color: #7cafc2;
+}
+.banner {
+  -webkit-filter: grayscale(60%);
+  filter: grayscale(60%);
+}
+.outerbox {
+  background: #0c0616;
+  border: 1px solid #4b4e55;
+  color: #777879;
+}
+#titlebox .threadnav {
+  margin: -6px;
+}
+#threadlist {
+  background: #0e0e0e;
+  border: 1px solid #4b4e55;
+}
+#threadlist a {
+  border-right: 1px solid #4b4e55;
+  border-bottom: 1px solid #4b4e55;
+}
+.mainpage .thread {
+  background: #0c0616;
+  border: 3px double #4b4e55;
+  color: #ced1cf;
+  opacity: 0.9;
+}
+.threadpage .thread {
+  color: #ced1cf;
+}
+.name,
+.abbrev {
+  color: #bd689a;
+}
+.name em {
+  color: #88f;
+}
+.del a {
+  color: #ab428c;
+}
+h4 .date,
+.quoted {
+  color: #485096;
+}
+.msg {
+  margin: 4px 40px 24px;
+}
+a.thumb {
+  margin-top: 4px;
+}
+.q {
+  color: #777;
+}
+.yt {
+  background: #262626;
+  border: 1px solid #444;
+  color: #e8e8e8;
+}
+.yt:hover {
+  text-decoration: none;
+}
+.deleted h4 {
+  color: #555;
+  margin-bottom: 24px;
+}
+#q-p {
+  background: #222;
+  border: 1px solid #4b4e55;
+}
+#q-p .msg {
+  margin-bottom: 8px;
+}
+form .msg {
+  background: #383838;
+  border: 1px dotted #000;
+}
+#footer {
+  color: #f7ca88;
+}
+#threads th {
+  background: #111213;
+}
+#threads tr:nth-child(odd) {
+  background: #191b1d;
+}
