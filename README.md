@@ -1,11 +1,11 @@
 # berries
-Una bonita paleta de colores inspiradas en los frutos más ricos de este mundo, los berries.
+A beautiful color pallet inspired in the most delicious fruits... The Berries!
 
-Actualmente aplicado en el BBS/IB BienvenidoaInternet.org
+#### Actually you can select this style in B.a.I. BBS/IB
 ![berries screenshot](https://i.imgur.com/Uh6sq2G.png)
 
-Una implementación refrescante del modo oscuro en tablones de texto
+A fresh implementation of night mode in BBS.
 ![berries screenshot](https://i.imgur.com/NU0vUg8.png)
 
-¡Siéntete libre de implementar este estilo y paleta de colores en tu sitio o proyectos personales!
+Feel free to use my code!
 ![berries screenshot](https://i.imgur.com/Ha3Cp9N.png)
